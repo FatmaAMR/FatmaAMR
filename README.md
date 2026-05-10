@@ -45,80 +45,49 @@
 </div>
 
 ---
-
-## 🚀 AI & Engineering Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛡️ Asset Sentinel
-<br>
-
-- Industrial predictive maintenance platform.
-- Real-time machine signal processing with **Apache Kafka**.
-- Fine-tuned **Time-series Transformer** with **RAG** for industrial insights.
-- High-performance backend for critical infrastructure.
-
-**Tech:** `Python` `Llama` `Kafka` `FastAPI` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 📄 SwiftApply
-<br>
-
-- Automation tool for generating **ATS-compliant CVs**.
-- Tailors resumes to specific job descriptions dynamically.
-- Modular backend built with **FastAPI**.
-- Minimalist and professional output design.
-
-**Tech:** `Python` `FastAPI` `NLP` `PDF Processing`
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
-## 📊 Data Analysis Highlights
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 📈 Market Trends Explorer
-<br>
+### **Asset Sentinel**
+- Industrial predictive maintenance platform **System Design**.
+- Real-time machine signal processing with **RabitMQ**.
+- Fine-tuned **Time-series Transformer**, **RAG** for diagnosis and **Textto-sql** for querying..
 
-- Deep-dive analysis of consumer behavior using large-scale datasets.
-- Interactive visualizations to identify growth opportunities.
-- Statistical testing to validate market hypotheses.
-
-**Tech:** `Python` `Pandas` `Matplotlib` `Seaborn`
+**Tech:** `OLlama` `RabitMQ` `FastAPI` `Influx`
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 📉 Operational Efficiency Audit
-<br>
+### **SwiftApply**
+- Automation tool for generating **ATS-compliant CVs**.
+- Tailors resumes to job descriptions dynamically.
+- Modular backend with professional output.
 
-- Analyzing system logs to identify bottlenecks and resource leaks.
-- Automated reporting dashboards for real-time performance tracking.
-- Data-driven recommendations that reduced latency by 20%.
+**Tech:** `FastAPI` `NLP` `PDF Processing` `LLM`
 
-**Tech:** `SQL` `Python` `Tableau/PowerBI` `Statistics`
+</td>
+<td width="33%" valign="top">
+
+### 📊 Airbnb & Booking Analysis
+- **Orange Egypt Hackathon** (4-Day Intensive).
+- Advanced **SQL** architecture for data enrichment.
+- High-impact **Power BI** Business Intelligence.
+
+**Tech:** `SQL` `Power BI` `Pandas`
 
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
