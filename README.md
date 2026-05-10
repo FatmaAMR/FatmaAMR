@@ -1,10 +1,14 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:89CFF0,100:F5F5F5&height=250&section=header&text=Hello!%20I'm%20Fatma%20Amr&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Architect&descSize=18&descAlignY=55&descAlign=50" width="100%" />
-
+  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/raw/badges/banner.png" width="100%" height="2" />
+  <br />
+  <h1 align="center"><b>Fatma Amr</b></h1>
+  <p align="center"><b>AI Engineer | Data Scientist | Backend Architect</b></p>
+  
+ 
 <!-- Animated Intro -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+Intelligent+Systems+with+LLMs;Data+Science+%26+Advanced+Analytics;Fine-tuning+the+future+with+RAG+%F0%9F%AA%84;Vice+Head+of+Data+Science+at+GDG" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+Intelligent+Systems+with+LLMs;Fine-tuning+the+future+with+RAG+%F0%9F%AA%84" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -47,7 +51,7 @@
 ---
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -75,8 +79,8 @@
 </td>
 <td width="33%" valign="top">
 
-### 📊 Airbnb & Booking Analysis
-- **Orange Egypt Hackathon** (4-Day Intensive).
+### **Airbnb & Booking Analysis**
+- **Orange Egypt Hackathon** (3-Day Intensive).
 - Advanced **SQL** architecture for data enrichment.
 - High-impact **Power BI** Business Intelligence.
 
@@ -94,14 +98,14 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatmaAMR&theme=tokyonight&show_icons=true&hide_border=true&border_radius=15&bg_color=001f3f&title_color=89CFF0&icon_color=89CFF0&text_color=F5F5F5" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatmaAMR&theme=tokyonight&hide_border=true&border_radius=15&background=001f3f&stroke=89CFF0&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatmaAMR&theme=tokyonight&hide_border=true&stroke=89CFF0&ring=89CFF0&fire=89CFF0" alt="GitHub Streak" />
 </div>
 
 ---
 
 <!-- Footer -->
+<br />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:89CFF0,100:F5F5F5&height=150&section=footer&text=Keep%20Innovating!%20✨&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
+ 
+  <p align="center"><i>Glad you stopped by! Let's build something amazing together. ✨</i></p>
 </div>
