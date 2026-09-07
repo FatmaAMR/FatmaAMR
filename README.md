@@ -49,59 +49,6 @@
 </div>
 
 ---
----
-
-## Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### **Asset Sentinel**
-- Industrial predictive maintenance platform **System Design**.
-- Real-time machine signal processing with **RabitMQ**.
-- Fine-tuned **Time-series Transformer**, **RAG** for diagnosis and **Textto-sql** for querying..
-
-**Tech:** `OLlama` `RabitMQ` `FastAPI` `Influx`
-
-</td>
-<td width="33%" valign="top">
-
-### **SwiftApply**
-- Automation tool for generating **ATS-compliant CVs**.
-- Tailors resumes to job descriptions dynamically.
-- Modular backend with professional output.
-
-**Tech:** `FastAPI` `NLP` `PDF Processing` `LLM`
-
-</td>
-<td width="33%" valign="top">
-
-### **Airbnb & Booking Analysis**
-- **Orange Egypt Hackathon** (3-Day Intensive).
-- Advanced **SQL** architecture for data enrichment.
-- High-impact **Power BI** Business Intelligence.
-
-**Tech:** `SQL` `Power BI` `Pandas`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatmaAMR&theme=tokyonight&hide_border=true&stroke=89CFF0&ring=89CFF0&fire=89CFF0" alt="GitHub Streak" />
-</div>
-
----
 
 <!-- Footer -->
 <br />
