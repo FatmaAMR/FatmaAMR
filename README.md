@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>— &nbsp; FURTHER READING & CONNECTIONS &nbsp; —</sub></p>
+<p><sub>— &nbsp; FIND ME THERE! &nbsp; —</sub></p>
 
 <br/>
 
